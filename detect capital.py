@@ -24,4 +24,5 @@ if s == s.capitalize():
     exit()
 
 if flag==0:
+    print("No capilizatin ")
     print(False)
